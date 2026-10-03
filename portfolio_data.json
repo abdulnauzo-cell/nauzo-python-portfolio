@@ -1,0 +1,155 @@
+[
+{
+  "model": "portfolio.project",
+  "pk": 1,
+  "fields": {
+    "title": "Nauzo Tech Academic",
+    "short_description": "An online learning platform focused on practical technology and development courses.",
+    "technology": "PHP, MySQL, HTML, CSS, JavaScript, Paystack",
+    "project_url": "https://nauzotechacademic.wuaze.com",
+    "github_url": null,
+    "image": "projects/nauzo.png",
+    "featured": true,
+    "created_at": "2026-10-01T18:23:26.187Z",
+    "updated_at": "2026-10-01T19:58:30.662Z"
+  }
+},
+{
+  "model": "portfolio.project",
+  "pk": 2,
+  "fields": {
+    "title": "Energy Monitoring Software",
+    "short_description": "A web-based energy monitoring system designed to track grid availability, generator usage, solar systems, battery levels and energy events.",
+    "technology": "PHP, MySQL, HTML, CSS, JavaScript",
+    "project_url": null,
+    "github_url": null,
+    "image": "projects/energy.png",
+    "featured": false,
+    "created_at": "2026-10-01T19:09:03.035Z",
+    "updated_at": "2026-10-01T19:58:47.660Z"
+  }
+},
+{
+  "model": "portfolio.project",
+  "pk": 3,
+  "fields": {
+    "title": "Android Mobile Applications",
+    "short_description": "Android application prototypes designed to solve practical problems through mobile technology and user-friendly interfaces.",
+    "technology": "Kotlin, XML, Android Studio",
+    "project_url": null,
+    "github_url": null,
+    "image": "projects/mobile.png",
+    "featured": false,
+    "created_at": "2026-10-01T19:10:53.504Z",
+    "updated_at": "2026-10-01T19:59:08.649Z"
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "description": "Python application development with Django and database-driven web applications.",
+    "order": 1
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 2,
+  "fields": {
+    "name": "Web Development",
+    "description": "HTML, CSS, JavaScript and responsive web application development.",
+    "order": 2
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 3,
+  "fields": {
+    "name": "Database Systems",
+    "description": "MySQL, SQLite and database-driven application development.",
+    "order": 3
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 4,
+  "fields": {
+    "name": "Android Development",
+    "description": "Android application development using Kotlin and XML.",
+    "order": 4
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 5,
+  "fields": {
+    "name": "PHP",
+    "description": "PHP and MySQL web application development.",
+    "order": 5
+  }
+},
+{
+  "model": "portfolio.skill",
+  "pk": 6,
+  "fields": {
+    "name": "Payment Integration",
+    "description": "Integration of online payment systems into web applications.",
+    "order": 6
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 1,
+  "fields": {
+    "title": "Web Development",
+    "description": "Professional websites and web applications for businesses, organizations and personal brands.",
+    "order": 1
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 2,
+  "fields": {
+    "title": "Software Development",
+    "description": "Custom software systems designed to solve specific business and operational problems.",
+    "order": 2
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 3,
+  "fields": {
+    "title": "Android Development",
+    "description": "Android mobile applications designed for practical use cases and modern user experiences.",
+    "order": 3
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 4,
+  "fields": {
+    "title": "Database Systems",
+    "description": "Reliable database solutions for applications that require structured data management.",
+    "order": 4
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 5,
+  "fields": {
+    "title": "Payment Integration",
+    "description": "Integration of secure online payment systems into websites and applications.",
+    "order": 5
+  }
+},
+{
+  "model": "portfolio.service",
+  "pk": 6,
+  "fields": {
+    "title": "Technical Solutions",
+    "description": "Practical technology solutions for organizations, projects and digital products.",
+    "order": 6
+  }
+}
+]
